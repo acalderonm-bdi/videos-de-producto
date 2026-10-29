@@ -1,0 +1,9 @@
+# clave|texto que dice la voz. Una línea por escena (la clave es el campo "v" de specs.json).
+# Regla: cada cifra con fuente verificada; no prometer «lo hace solo» si hay una persona que aprueba.
+A0|Tener a alguien vigilando tu operación las veinticuatro horas cuesta más de lo que crees.
+A1|Solo este mes se publicaron más de tres mil fallas nuevas.
+A2|Por eso existe Tu Producto.
+A3|Cada mañana revisa lo que cambió, y te dice qué te afecta.
+A4|Buscas, seleccionas, y el resultado está ahí.
+A5|Tres números que antes tardabas un día en juntar.
+A6|Tu Producto. Tu frase final.

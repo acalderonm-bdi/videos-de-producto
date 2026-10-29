@@ -1,0 +1,12 @@
+{
+  "bpm": 120,
+  "escenas": [
+    {"n": "E01_problema", "k": "palabra", "v": "A0", "off": 0.5, "txt": "24/7.", "sub": "UN EQUIPO HUMANO NO ALCANZA", "subc": "gris", "hit": 1},
+    {"n": "E02_dato", "k": "numero", "v": "A1", "off": 0.3, "n": 3200, "suf": "", "sub": "FALLAS PUBLICADAS ESTE MES", "c": "alerta"},
+    {"n": "E03_marca", "k": "logo", "v": "A2", "off": 0.4},
+    {"n": "E04_como", "k": "tarjetas", "v": "A3", "off": 0.5, "cards": [["tarjeta-1", 0.0], ["tarjeta-2", 0.5]], "fondo": "HOY"},
+    {"n": "E05_producto", "k": "toma", "v": "A4", "off": 0.6, "toma": "buscar", "desde": 0.5, "txt": "Así se ve.", "min": 7},
+    {"n": "E06_tres", "k": "fila", "v": "A5", "off": 0.4, "cards": [["kpi-1", 0.0], ["kpi-2", 0.3], ["kpi-3", 0.6]], "hit": 1},
+    {"n": "E07_cierre", "k": "cierre", "v": "A6", "off": 0.4, "txt": "Tu frase final."}
+  ]
+}
